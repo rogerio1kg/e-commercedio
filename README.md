@@ -45,7 +45,7 @@ O diagrama EER é organizado em tabelas inter-relacionadas, descritas abaixo:
 
 ## Diagrama EER
 
-![EER Diagram](EER_Model_Refined.png)
+![EER Diagram](https://github.com/rogerio1kg/e-commercedio/blob/main/modelo_EER-ecommerce.png)
 
 O diagrama acima apresenta todas as tabelas e suas relações. Ele foi projetado para garantir um fluxo lógico de dados e facilitar a expansão do sistema, caso necessário.
 
@@ -56,7 +56,7 @@ O diagrama acima apresenta todas as tabelas e suas relações. Ele foi projetado
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
 
-2. Abra o arquivo do diagrama (`EER_Model_Refined.png`) para visualizar a estrutura do banco de dados.
+2. Abra o arquivo do diagrama (`modelo_EER-ecomerce.png`) para visualizar a estrutura do banco de dados.
 
 3. Use o modelo como referência para a implementação do banco de dados em sua aplicação.
 
